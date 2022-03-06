@@ -12,9 +12,11 @@ Design a Flask application using data.
 
 ## Results:
 June Stats for Temp
+
 ![image](https://user-images.githubusercontent.com/36766602/156947080-63ef8d9c-56d7-46ea-afa1-be7801edeb9e.png)
 
 Dec Stats for Temp
+
 ![image](https://user-images.githubusercontent.com/36766602/156947104-e3e05a66-e3d6-4465-bb90-90677316bac3.png)
 
 The mean temperature of 75°F for June is higher than the mean temperature of 71°F for December. However, the opposite is true for precipitation. December had the higher precipitation of .22 inches while June had .14 inches.
